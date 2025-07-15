@@ -1,0 +1,131 @@
+/* === Base === */
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+  scroll-behavior: smooth;
+}
+
+a {
+  transition: all 0.3s ease;
+}
+
+/* === Navbar === */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 40px;
+  background-color: #111;
+  flex-wrap: wrap;
+}
+
+.navbar .logo {
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+.navbar a {
+  color: #fff;
+  text-decoration: none;
+  margin-left: 20px;
+  font-size: 1em;
+}
+
+.navbar a:hover {
+  color: #ff5e57;
+}
+
+/* === Hero Section === */
+.hero {
+  padding: 60px 20px;
+  animation: fadeIn 1s ease-in;
+}
+
+.avatar {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 20px;
+  box-shadow: 0 0 20px #ff5e57;
+}
+
+h1 {
+  font-size: 2.5em;
+  margin-bottom: 10px;
+}
+
+.highlight {
+  color: #ff5e57;
+}
+
+.btn {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #fff;
+  color: #000;
+  border-radius: 30px;
+  text-decoration: none;
+  margin-top: 25px;
+  font-weight: bold;
+  transition: transform 0.2s ease;
+}
+
+.btn:hover {
+  transform: scale(1.05);
+  background-color: #ff5e57;
+  color: #fff;
+}
+
+/* === Sections === */
+.section {
+  padding: 80px 20px;
+  background-color: #111;
+  margin-top: 40px;
+  animation: fadeIn 1.5s ease-in;
+}
+
+.section h2 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+/* === Animation === */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* === Responsive === */
+@media (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 20px;
+  }
+
+  .navbar a {
+    margin: 10px 0 0 0;
+  }
+
+  h1 {
+    font-size: 2em;
+  }
+
+  .section h2 {
+    font-size: 1.5em;
+  }
+
+  .btn {
+    padding: 10px 20px;
+  }
+}
