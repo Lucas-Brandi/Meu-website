@@ -2,6 +2,7 @@
 
 Bem-vindo ao meu site pessoal! Este projeto é uma página de portfólio desenvolvida com HTML, CSS e JavaScript puro, com foco em design responsivo, animações suaves e estilo moderno.
 
+![Screenshot do Portfólio](./assets/images/o-que-e-javascript-1.webp)
 
 ---
 
