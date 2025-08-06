@@ -27,8 +27,4 @@ Bem-vindo ao meu site pessoal! Este projeto é uma página de portfólio desenvo
 
 ---
 
-## 🛠 Como rodar localmente
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
