@@ -9,9 +9,7 @@ Bem-vindo ao meu site pessoal! Este projeto é uma página de portfólio desenvo
 ## 📌 Funcionalidades
 
 - 🌙 Tema escuro estiloso
-- 🧍 Seção de perfil com avatar
 - 📖 Seções "Sobre mim" e "Experiência"
-- 📱 Layout responsivo (Mobile Friendly)
 - 🎯 Animações com CSS
 - 🔗 Navegação suave (scroll suave via JS)
 
