@@ -31,7 +31,5 @@ O objetivo foi manter o mesmo visual e comportamento do site antigo, mas com uma
 Desenvolvido por **Lucas Brandi** 💻
 Baseado no site original em HTML/CSS/JS, agora com **React + Vite**.
 
----
-
 Sinta-se livre para clonar, adaptar e estudar o código.
 
