@@ -1,30 +1,33 @@
-# 🚀 Meu Portfólio Pessoal
+# Meu Website
 
-Bem-vindo ao meu site pessoal! Este projeto é uma página de portfólio desenvolvida com HTML, CSS e JavaScript puro, com foco em design responsivo, animações suaves e estilo moderno.
+Este é o repositório do meu website desenvolvido utilizando [Vite](https://vitejs.dev/).
 
-![Screenshot do Portfólio](./assets/images/o-que-e-javascript-1.webp)
+## Sobre o Projeto
 
----
+O objetivo deste projeto é criar um website moderno, rápido e fácil de manter, aproveitando as vantagens do Vite para desenvolvimento frontend.
 
-## 📌 Funcionalidades
+## Tecnologias Utilizadas
 
-- 🌙 Tema escuro estiloso
-- 🧍 Seção de perfil com avatar
-- 📖 Seções "Sobre mim" e "Experiência"
-- 📱 Layout responsivo (Mobile Friendly)
-- 🎯 Animações com CSS
-- 🔗 Navegação suave (scroll suave via JS)
+- [Vite](https://vitejs.dev/)
+- HTML5
+- CSS3
+- JavaScript (ES6+)
 
----
+## Como Executar
 
-## 🧠 Tecnologias usadas
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/Meu-website.git
+   ```
+2. Instale as dependências:
+   ```bash
+   npm install
+   ```
+3. Inicie o servidor de desenvolvimento:
+   ```bash
+   npm run dev
+   ```
 
-- **HTML5** para estrutura
-- **CSS3** com media queries e animações
-- **JavaScript Vanilla** para navegação suave
-- **Google Fonts** (Poppins)
-- Sem frameworks ou bibliotecas externas 🎉
+## Contribuição
 
----
-
-
+Sinta-se à vontade para abrir issues ou enviar pull requests.
