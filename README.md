@@ -16,7 +16,6 @@ O objetivo foi manter o mesmo visual e comportamento do site antigo, mas com uma
 
 ---
 
----
 
 ## 💡 Funcionalidades
 
